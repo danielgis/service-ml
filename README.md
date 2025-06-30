@@ -37,3 +37,11 @@ La API expone un único endpoint:
 
 - **Modelo entrenado**: El modelo de **TensorFlow** fue entrenado utilizando un conjunto de datos simple con pares de valores de temperaturas en Celsius y Fahrenheit. Esta red neuronal **`Dense`** tiene una capa de salida que realiza la conversión.
 - **Uso práctico**: Aunque la conversión de Celsius a Fahrenheit es una operación matemática sencilla, este modelo demuestra cómo se puede integrar un modelo de **TensorFlow** en un sistema backend para realizar predicciones, incluso con tareas simples como esta.
+
+
+### **Libreria a instalar**
+ver https://www.tensorflow.org/install?hl=es-419
+```console
+pip install tensorflow
+```
+
